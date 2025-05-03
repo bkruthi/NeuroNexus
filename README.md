@@ -2,6 +2,8 @@
 
 This repository contains two machine learning mini-projects implemented using Python and scikit-learn:
 
+## 1. Titanic Survival Prediction
+
 Predicts passenger survival on the Titanic using the `tested.csv` dataset.
 Titanic Survival Prediction (`titanic.py`)
 ### Features:
